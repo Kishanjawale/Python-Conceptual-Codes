@@ -2,7 +2,7 @@
 print("Program to demonstrate the concept of list ")
 
 
-def main():
+def main():      
     list1=[11,21,51,101]   #Creating a List 
 
     print("Elements in the list are:",list1)
