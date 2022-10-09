@@ -1,16 +1,25 @@
+print("Demonstration of built in Data Types:")
 
 #Integer
-a= 5
-print("type of A:", type(a))
+iobj = 11
 
 #Float
-b= 5.5
-print("Type of B: ", type(b))
+fobj = 3.14
 
-#Complex
-c= 2 + 4j
-print("Type of C: ",type(c))
+#String
+sobj  = "Hello"
 
-#string
-str =  "Welcome to Marvellous"
-print("Type of str: ",type(str))
+#Boolean
+bobj = True
+
+print(iobj)
+print(type(iobj))
+
+print(fobj)
+print(type(fobj))
+
+print(sobj)
+print(type(sobj))
+
+print(bobj)
+print(type(bobj))
